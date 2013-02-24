@@ -1,4 +1,4 @@
-Application that isolates a issue I found while trying to run another application using Rubinius.
+Application that isolates an issue I found while trying to run another application using Rubinius.
 
 Just run `bundle install; bundle exec rackup -I.`.
 
